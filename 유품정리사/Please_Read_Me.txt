@@ -28,6 +28,10 @@ RTP를 다운받기 위해서 게임 파일의 xp_rtp104e.exe 를 실행해주�
 	23번 https://maou.audio/bgm_piano23/
 	40번 https://maou.audio/bgm_piano40/
 	피아노 건반 소리 https://maou.audio/category/se/se-inst/
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 데이드림사운드
 	고양이 효과음 https://www.youtube.com/watch?v=Lsy_rg83k94
 	피아노 BGM https://www.youtube.com/watch?v=HNjsSepH6xU
